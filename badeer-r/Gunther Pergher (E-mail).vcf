@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Pergher;Gunther;;;
+FN:Gunther Pergher (E-mail)
+ORG:Dow Jones & Company Inc.;News Product Development
+TITLE:Senior Analyst
+TEL;WORK;VOICE:(609) 520-7067
+TEL;HOME;VOICE:(732) 745-2409
+TEL;CELL;VOICE:(908) 451-2826
+TEL;WORK;FAX:(609) 452-3531
+ADR;WORK:;South Brunswick & Jersey City;4300 North Route 1 at Ridge Road;South Brunswick;NJ;08852;United States of America
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:South Brunswick & Jersey City=0D=0A4300 North Route 1 at Ridge Road=0D=0ASou=
+th Brunswick, NJ 08852=0D=0AUnited States of America
+ADR;POSTAL:;;P.O. Box 300;Princeton;NJ;08543-0300;United States of America
+LABEL;POSTAL;ENCODING=QUOTED-PRINTABLE:P.O. Box 300=0D=0APrinceton, NJ 08543-0300=0D=0AUnited States of America
+EMAIL;PREF;EX:/o=dowjones/ou=Harborside/cn=Recipients/cn=PergherG
+REV:20000217T182032Z
+END:VCARD
+
+

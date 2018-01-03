@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.nationalreview.com/kopel/kopel110900.shtml
+
+[DOC#26]
+BASEURL=http://ad.doubleclick.net/adi/www.nationalreview.com/guestcomment;cat=news;cat=arts_culture;cat=politics;ord=27076630730?
+ORIGURL=http://ad.doubleclick.net/adi/www.nationalreview.com/guestcomment;cat=news;cat=arts_culture;cat=politics;ord=27076630730?
+
+[InternetShortcut]
+URL=http://www.nationalreview.com/kopel/kopel110900.shtml
+Modified=A063B16A604AC00189
+

@@ -1,0 +1,47 @@
+Return-Path: <mwilkerson@ajilon.com>
+Received: from ans3-priv.dttus.com by bna1.dttus.com for shelliott@dttus.com; Fri, 7 Apr 2000 08:50:20 -0500
+Received: from micro3.icsnet.net by ans3-pub.dttus.com with SMTP id IAA00237
+  (InterLock SMTP Gateway 3.0 for <shelliott@dttus.com>);
+  Fri, 7 Apr 2000 08:50:37 -0500
+Received: HReceived: from micro3.icsnet.net (localhost [127.0.0.1])
+        by micro3.icsnet.net (ics mailserver) with ESMTP id JAA18571
+        for <shelliott@dttus.com>; Fri, 7 Apr 2000 09:51:20 -0400 (EDT)
+Received: HReceived: from exchange-hq.Ajilon.com (exchange-hq.ajilon.com [12.4.214.204])
+        by micro3.icsnet.net (ics mailserver) with ESMTP id JAA15582;
+        Fri, 7 Apr 2000 09:42:43 -0400 (EDT)
+Message-Id: <200004071342.JAA15582@micro3.icsnet.net>
+Received: by exchange.ajilon.com with Internet Mail Service (5.5.2448.0)
+	id <2AQNYFJA>; Fri, 7 Apr 2000 09:38:42 -0400
+From: "Wilkerson, Mark" <mwilkerson@ajilon.com>
+To: "'Adam \"bitchface\" Morse'" <AMorse@EMJMETALS.COM>,
+    "'Amy Hymel'" <hymela@netsolve.net>,
+    Brett Wilkerson <bretts@mail.utexas.edu>,
+    "'Brian Sorensen-work'" <brian.sorensen@chase.com>,
+    "'Dad-work'" <vmw@ispchannel.com>,
+    "'Elrhea Stockton'" <Elrhea.stockton@dcicorp.com>,
+    "'Jed Dryer'" <jdryer@kpmg.com>,
+    "'Jeff Waldman'" <jwaldman@ers.state.tx.us>,
+    "'Jim Stiffler'" <jim_stiffler@dell.com>,
+    "'Keith Hatley'" <keith.hatley@allegiancetelecom.com>,
+    Luke Sablica <sablica@compuserve.com>,
+    "'Mark Hooper'" <mark_hooper@dell.com>,
+    Michael_Ecklund@hines.com,
+    "'Misty-work'" <r8834c@email.sps.mot.com>,
+    "'Mitch & Devy'" <dmehta@uth.tmc.edu>,
+    "'Mitch Deshotels-work'" <mdeshotels@rightnowtech.com>,
+    pavri@bplaw.com,
+    "'Phil Connor -work'" <pconnor@us.ibm.com>,
+    RMoser@EMJMETALS.COM,
+    "'Ryan \"Work\"'" <ryane@tocquigny.com>,
+    Schoelpple@yahoo.com,
+    "'Scott & Launa'" <swlh@excite.com>,
+    Shirley Elliott <shelliott@dttus.com>,
+    "'Tom Sanders'" <hookem@ev1.net>,
+    "'Wade, Jen, and Ashley'" <wwindom@aol.com>,
+    waldron50@yahoo.com
+Subject: The Joys of Marriage
+Date: Fri, 7 Apr 2000 09:34:38 -0400 
+X-Mailer: Internet Mail Service (5.5.2448.0)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----_=_NextPart_000_01BFA096.95E810F0"
+

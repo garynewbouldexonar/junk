@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://concierge.com/deals/deal1.html
+
+[DOC#12#8]
+BASEURL=http://ads.enliven.com/tools/popup.dll?popup=ie_applet_5.html;cid=209304;sid=251405;session=201643716;euid=547513344;;xclick=http://ads07.focalink.com/SmartBanner/chtml/16946.30_s129341/page/
+ORIGURL=http://ads.enliven.com/tools/popup.dll?popup=ie_applet_5.html;cid=209304;sid=251405;session=201643716;euid=547513344;;xclick=http://ads07.focalink.com/SmartBanner/chtml/16946.30_s129341/page/
+
+[InternetShortcut]
+URL=http://concierge.com/deals/deal1.html
+Modified=000E9A0ACF7FC001C1
+

@@ -1,0 +1,40 @@
+ SALES PERSON: JJ                  ITINERARY            DATE: 28 NOV 00
+ CUSTOMER NBR: ENR1081                          UIPTUJ  PAGE: 01
+  
+        TO: ENRON CORPORATION
+            EXECUTIVE MANAGEMENT CONFERENCE
+            LAS VEGAS, NEVADA
+            DECEMBER 13-16, 2000
+  
+  
+ FOR: BECK/SALLY
+  
+   
+   
+ 13 DEC 00  -  WEDNESDAY
+    AIR   CONTINENTAL AIRLINES FLT:1663   ECONOMY        SNACK
+          LV HOUSTON GEO BUSH             535P           EQP: MD-80
+          DEPART: TERMINAL C                             03HR 13MIN
+          AR LAS VEGAS                    648P           NON-STOP
+          ARRIVE: MAIN TERMINAL                          REF: O7KZPH
+          BECK/SALLY        SEAT- 6C   CO-SC681463
+
+    HOTEL LAS VEGAS                       UTELL INTERNATIONAL
+          UI THE VENETIAN RESORT          3 NIGHTS   OUT-16DEC
+          3355 LAS VEGAS BLVD SOUTH       1 ROOM     SINGLE
+          LAS VEGAS NV 89109              RATE-0.00 PER NIGHT
+          FONE 702-414-1000               GUARANTEED LATE ARRIVAL
+          CONFIRMATION RESERVED
+          FAX 702-414-1100
+  
+ 16 DEC 00  -  SATURDAY
+    AIR   CONTINENTAL AIRLINES FLT:1468   ECONOMY        SNACK
+          LV LAS VEGAS                    715A           EQP: B737-800
+          DEPART: MAIN TERMINAL                          02HR 57MIN
+          AR HOUSTON GEO BUSH             1212P          NON-STOP
+          ARRIVE: TERMINAL C                             REF: O7KZPH
+          BECK/SALLY        SEAT- 8C   CO-SC681463
+   
+
+
+

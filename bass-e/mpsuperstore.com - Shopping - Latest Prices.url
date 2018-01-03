@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.mpsuperstore.com/
+
+[DOC#12#15#16]
+BASEURL=http://www.mpsuperstore.com/digital/left.htm
+ORIGURL=left.htm
+
+[DOC#12#15#17]
+BASEURL=http://www.mpsuperstore.com/digital/group81.htm
+ORIGURL=specials.htm
+
+[InternetShortcut]
+URL=http://www.mpsuperstore.com/
+Modified=A0F23336B45FC001CF
+

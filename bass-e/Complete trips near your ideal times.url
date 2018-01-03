@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://cooltravelassistant.com/pub/Agent.dll?tovr=2000092900
+
+[DOC_CalFrame]
+BASEURL=http://cooltravelassistant.com/eta/calendar.htm
+ORIGURL=/eta/calendar.htm
+
+[InternetShortcut]
+URL=http://cooltravelassistant.com/pub/Agent.dll?tovr=2000092900
+Modified=20CF1A3D295AC0018A
+

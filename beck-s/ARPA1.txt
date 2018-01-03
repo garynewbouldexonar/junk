@@ -1,0 +1,48 @@
+Received: from sm0p9035pos.stm.swissbank.com (sm0p9035pos.stm.swissbank.com [151.191.81.35])
+	by sm0p8143.stm.swissbank.com (8.8.6 (PHNE_17135)/8.8.6/WDR gamma evision: 1.4 $) with ESMTP id SAA27357
+	for </S=Fusco/G=Alexander/I=/Q=/@sm0p8143.stm.swissbank.com>; Fri, 22 Mar 2002 18:34:37 -0500 (EST)
+Received: from virscan3.swissbank.com (virscan3.swissbank.com [192.168.0.6])
+	by sm0p9035pos.stm.swissbank.com (8.8.8/8.8.8) with ESMTP id SAA03661
+	for <alexander.fusco@ubswarburg.com>; Fri, 22 Mar 2002 18:34:33 -0500 (EST)
+Received: from gate2.stm.ubswarburg.com (virscan3 [192.168.0.6])
+	by virscan3.swissbank.com (8.8.8/8.8.8) with ESMTP id SAA11029
+	for <alexander.fusco@ubswarburg.com>; Fri, 22 Mar 2002 18:33:00 -0500 (EST)
+Received: (from smap@localhost)
+	by gate2.stm.ubswarburg.com (8.8.8/8.8.8) id SAA29388
+	for <alexander.fusco@ubswarburg.com>; Fri, 22 Mar 2002 18:33:44 -0500 (EST)
+Received: from <Mike.Curry@ubswenergy.com> (outbound5.enron.com [192.152.140.9]) by gate2 via smap (V2.0/ubsw)
+	id xma029340; Fri, 22 Mar 2002 18:33:42 -0500
+Received: from NAHOU-MSMSW02P.corp.enron.com (nahou-msmsw02p.corp.enron.com [192.168.110.109])
+	by postmaster.enron.com (8.10.1/8.10.1/external_corp-1.08) with ESMTP id g2MNXh028179
+	for <alexander.fusco@ubswarburg.com>; Fri, 22 Mar 2002 17:33:43 -0600 (CST)
+Received: from nahou-mscnx04p.corp.enron.com (unverified) by NAHOU-MSMSW02P.corp.enron.com
+ (Content Technologies SMTPRS 4.2.5) with SMTP id <T59cb829b4bc0a86e6d6a0@NAHOU-MSMSW02P.corp.enron.com> for <alexander.fusco@ubswarburg.com>;
+ Fri, 22 Mar 2002 17:33:43 -0600
+Received: from NAHOU-MSDOG01V.corp.enron.com ([172.24.192.211]) by nahou-mscnx04p.corp.enron.com with Microsoft SMTPSVC(5.0.2195.2966);
+	 Fri, 22 Mar 2002 17:33:43 -0600
+X-MimeOLE: Produced By Microsoft Exchange V6.0.5762.3
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----_=_NextPart_001_01C1D1FA.010B7048"
+Subject: Brownsville Deal Update
+Date: Fri, 22 Mar 2002 17:33:43 -0600
+Message-ID: <4C0D986A56DC164CBFF2EF419EC7892B07C5B1@NAHOU-MSDOG01V.corp.enron.com>
+X-MS-Has-Attach: yes
+Thread-Topic: Brownsville Deal Update
+Thread-Index: AcHR+gD558/dyFfAT/OQVIOLYQ0Fsg==
+From: "Curry, Mike" <Mike.Curry@ubswenergy.com>
+To: "Gilbert-smith, Doug" <Doug.Gilbert-Smith@ubswenergy.com>,
+        "Pacheco, Leonardo" <Leonardo.Pacheco@ubswenergy.com>,
+        "Brysch, Jim" <Jim.Brysch@ubswenergy.com>,
+        "Sacks, Edward" <Edward.Sacks@ubswenergy.com>,
+        "White, Stacey W." <Stacey.W.White@ubswenergy.com>,
+        "Portz, David" <David.Portz@ubswenergy.com>,
+        "Sager, Elizabeth" <Elizabeth.Sager@ubswenergy.com>,
+        "Allen, Thresa A." <Thresa.A.Allen@ubswenergy.com>,
+        "Albrecht, Kristin" <Kristin.Albrecht@ubswenergy.com>,
+        "Gorny, Vladimir" <Vladimir.Gorny@ubswenergy.com>,
+        <alexander.fusco@ubsw.com>,
+        "Evans, Casey" <Casey.Evans@ubswenergy.com>,
+        "Vinson, Donald Wayne" <Donald.Wayne.Vinson@ubswenergy.com>
+X-OriginalArrivalTime: 22 Mar 2002 23:33:43.0598 (UTC) FILETIME=[013E64E0:01C1D1FA]
+

@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://aspenridge.net/index6.html
+
+[DOC#3#4]
+BASEURL=http://aspenridge.net/header.html
+ORIGURL=header.html
+
+[DOC#3#5]
+BASEURL=http://aspenridge.net/features.html
+ORIGURL=intro.html
+
+[InternetShortcut]
+URL=http://aspenridge.net/index6.html
+Modified=80BC1D3F8713C001F3
+

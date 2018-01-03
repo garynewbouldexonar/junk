@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Jones;Casey
+FN:Casey Jones
+ORG:Mercator Partners, Inc.
+TEL;WORK;VOICE:+1 (978) 318-9696 x110
+TEL;CELL;VOICE:+1 (978) 394-2110
+TEL;WORK;FAX:+1 (978) 318-9797
+ADR;WORK:;;89 Thoreau St;Concord;MA;01742;United States of America
+LABEL;WORK;ENCODING=QUOTED-PRINTABLE:89 Thoreau St=0D=0AConcord, MA 01742=0D=0AUnited States of America
+URL:
+URL:http://www.mercatorpartners.com
+EMAIL;PREF;INTERNET:casey@mercatorpartners.com
+REV:20000129T222351Z
+END:VCARD
+
